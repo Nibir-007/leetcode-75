@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nibir-007/leetcode-75/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Nibir-007/leetcode-75/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
