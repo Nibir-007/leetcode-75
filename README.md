@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Nibir-007/leetcode-75/tree/master/0595-big-countries) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Nibir-007/leetcode-75/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Dynamic Programming
 |  |
 | ------- |
